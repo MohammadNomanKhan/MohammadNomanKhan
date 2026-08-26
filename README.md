@@ -8,7 +8,7 @@ I've worked across **full-stack development, REST/WebSocket APIs, computer visio
 
 📍 Karachi, Pakistan  
 📧 [mohammadnoman336@gmail.com](mailto:mohammadnoman336@gmail.com)  
-💼 [LinkedIn](YOUR_LINKEDIN_URL)
+💼 [LinkedIn](https://www.linkedin.com/in/nomanmohammadkhan/)
 
 ---
 
@@ -102,7 +102,7 @@ Bachelor of Science in Computer Science · 2022 – 2026
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomanmohammadkhan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadnoman336@gmail.com)
 
 ---
