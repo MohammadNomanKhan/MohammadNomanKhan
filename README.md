@@ -68,7 +68,9 @@ A full-stack attendance platform using **facial recognition and computer vision*
 
 ### 📈 [Cryptocurrency Market Prediction](https://github.com/Brogrimreaperhere/crypto-market-prediction)
 
-An ML project exploring **LSTM-based time-series forecasting** and pump-and-dump detection for cryptocurrency markets.
+A machine learning project for analyzing cryptocurrency market data and exploring predictive models for **price movement, market direction, and unusual market activity**.
+
+The project combines data preprocessing, feature engineering, machine learning, statistical analysis, and visualization to study patterns in cryptocurrency markets.
 
 **Built with:** `Python` `LSTM` `Machine Learning` `Time Series`
 
