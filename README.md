@@ -48,7 +48,7 @@ I've worked across **full-stack development, REST/WebSocket APIs, computer visio
 
 ## 🚀 Featured Projects
 
-### 🚁 [Project Aeronos/Final Year Project](https://github.com/Brogrimreaperhere/project-aeronos)
+### 🚁 [Project Aeronos/Final Year Project](https://github.com/MohammadNomanKhan/ProjectAeronos_FinalYearProject)
 
 An autonomous UAV platform designed for **surveillance and payload transport**.
 
