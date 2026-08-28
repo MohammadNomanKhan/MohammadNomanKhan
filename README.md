@@ -58,7 +58,7 @@ Built as a full-stack system combining drone simulation, computer vision, backen
 
 ---
 
-### 🤖 [AI-Powered Attendance System](https://github.com/Brogrimreaperhere/ai-attendance-system)
+### 🤖 [AI-Powered Attendance System](https://github.com/MohammadNomanKhan/GIKRoll_MAA-web)
 
 A full-stack attendance platform using **facial recognition and computer vision** for automated attendance tracking, backed by a relational database.
 
