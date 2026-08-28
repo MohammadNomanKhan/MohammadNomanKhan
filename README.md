@@ -66,7 +66,7 @@ A full-stack attendance platform using **facial recognition and computer vision*
 
 ---
 
-### 📈 [Cryptocurrency Market Prediction](https://github.com/Brogrimreaperhere/crypto-market-prediction)
+### 📈 [Cryptocurrency Market Prediction](https://github.com/MohammadNomanKhan/Cryptocurrency-Market-Analysis-Correction-Prediction)
 
 A machine learning project for analyzing cryptocurrency market data and exploring predictive models for **price movement, market direction, and unusual market activity**.
 
@@ -78,7 +78,7 @@ The project combines data preprocessing, feature engineering, machine learning, 
 
 ## 💼 Experience
 
-**Data Science & AI Engineer / Junior Developer**  
+**Data Science & AI Engineer / Intern / Junior Developer**  
 CEE Solutions · Jul 2025 – Sep 2025
 
 Worked on AI/ML applications involving **LLMs, computer vision, YOLO, fine-tuning, and data processing**, alongside backend development.
